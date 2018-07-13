@@ -181,7 +181,7 @@ div.unbreakable{page-break-inside:avoid}
 .aqua-background{background-color:#00fafa}
 .black{color:#000}
 .black-background{background-color:#000}
-.blue{color:#246990}
+.blue{color:#6B698E}
 .blue-background{background-color:#0000fa}
 .fuchsia{color:#bf00bf}
 .fuchsia-background{background-color:#fa00fa}
@@ -222,7 +222,7 @@ span.icon>.fa{cursor:default}
 pre .conum[data-value]{position:relative;top:-.125em}
 b.conum *{color:inherit!important}
 .conum:not([data-value]):empty{display:none}
-h1,h2{letter-spacing:-.01em;text-align:center;color:#246990}
+h1,h2{letter-spacing:-.01em;text-align:center;color:#6B698E}
 dt,th.tableblock,td.content{text-rendering:optimizeLegibility}
 p,td.content{letter-spacing:-.01em}
 p strong,td.content strong{letter-spacing:-.005em}
